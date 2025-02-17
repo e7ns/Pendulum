@@ -1,1 +1,1 @@
-# Ender-3-Pendulum
+# Pendulum
